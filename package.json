@@ -1,6 +1,7 @@
 {
   "name": "starting-react",
   "version": "0.1.0",
+  "author": "Henrik",
   "homepage": "https://heense.github.io/starting-react",
   "private": true,
   "dependencies": {
